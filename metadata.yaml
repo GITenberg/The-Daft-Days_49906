@@ -1,4 +1,8 @@
 _repo: The-Daft-Days_49906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Munro, Neil
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '9862'
     url: http://www.gutenberg.org/2009/agents/9862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49906#The-Daft-Days
 gutenberg_issued: '2015-09-07'
 gutenberg_type: Text
 identifiers:
